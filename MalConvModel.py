@@ -1,3 +1,7 @@
+ '''
+FROM https://github.com/elastic/ember/blob/master/malconv/malconv.py
+H. Anderson and P. Roth, "EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models”, in ArXiv e-prints. Apr. 2018.
+ '''
 import torch
 import torch.nn.functional as F
 import numpy as np
